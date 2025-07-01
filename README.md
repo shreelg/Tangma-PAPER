@@ -1,2 +1,6 @@
 # Tangma
-A novel activation function combining tunable nonlinearity and residual linearity.
+A activation function combining tunable nonlinearity and residual linearity.
+
+Tangma/
+├── cifar10_cnn.ipynb                
+├── mnist_cnn.ipynb                   
