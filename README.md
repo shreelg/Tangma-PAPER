@@ -8,6 +8,9 @@ This project implements Tangma, an activation function combining tunable nonline
 
 ```plaintext
 Tangma/
-├── cifar10_cnn.ipynb                    # full implmentation (defining activation functions + custom CIFAR10 CNN)
-├── mnist_cnn.ipynb                   # same as above but MNIST CNN
+├── cifar10_cnn.ipynb                   # Full implmentation (defining activation functions + custom CIFAR10 CNN)
+├── mnist_cnn.ipynb                     # Same as above but for MNIST dataset
+├── Tangma_ShreelGolwala.pdf            # A pdf copy of the paper
+├── tangma_paper                        # Folder with all figures and main .tex file.  
+
 
