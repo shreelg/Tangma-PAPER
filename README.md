@@ -4,7 +4,7 @@ https://arxiv.org/abs/2507.10560
 
 ## Overview
 
-This project implements Tangma, an activation function combining tunable nonlinearity and residual linearity for deep learning models. It helps training performance by preventing issues like vanishing gradients, while softening high intensity activations. 
+This project implements Tangma --- an activation function combining tunable nonlinearity and residual linearity through the use of learnable parameters for deep learning models. Tested in custom CNNs with MNIST and CIFAR-10 datasets, it shows promising results in training performance by preventing issues like vanishing gradients, while softening high intensity activations. 
 
 ## Project Structure
 
